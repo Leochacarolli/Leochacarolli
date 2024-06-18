@@ -15,8 +15,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt"Leo-gif" src="![ezgif com-animated-gif-maker](https://github.com/Leochacarolli/Leochacarolli/assets/90074097/11f93d55-0201-46d4-9115-783693cc7499)">
-</div>
+  
+  <img align="right" width="150" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-afcf1d2767.gif" >
+
 
   ##
 
