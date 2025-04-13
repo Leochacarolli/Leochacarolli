@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Chacarolli 👋
 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas na USCS e estudo Python por conta.
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas na USCS e atualmente estou estudando Java, Spring Boot, PostgreSQL e MongoDB.
 - 📫 Contate-me no e-mail: leonardochacarolli@gmail.com
   
   ##
@@ -12,9 +12,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="right" width="200" height="150" src="https://media1.tenor.com/m/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif">
 
   ##
